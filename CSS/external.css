@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  margin-left: 15px;
+  margin-top: 50px;
+  margin-right: 12px;
+}
+
+.sec-first {
+  background-color: skyblue;
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+}
+
+.sec-second {
+  background-color: rgb(57, 47, 84);
+  width: 700px;
+  height: 500px;
+  border-top: 5px solid green;
+  border-right: 5px solid blue;
+  border-bottom: 5px dotted red;
+  border-left: 5px double orange;
+}
+
+h4 {
+  padding-left: 25px;
+  padding-bottom: 30px;
+}
+
+h1,
+h4,
+h5,
+h6 {
+  color: blue;
+}
+
+.sec-second p {
+  color: white;
+  text-align: center;
+}
+
+div h2 {
+  color: red;
+}
+
+#para p {
+  line-height: 50px;
+}
